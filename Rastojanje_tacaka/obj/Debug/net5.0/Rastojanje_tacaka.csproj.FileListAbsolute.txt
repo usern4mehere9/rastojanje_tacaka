@@ -1,0 +1,16 @@
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\bin\Debug\net5.0\Rastojanje_tacaka.exe
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\bin\Debug\net5.0\Rastojanje_tacaka.deps.json
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\bin\Debug\net5.0\Rastojanje_tacaka.runtimeconfig.json
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\bin\Debug\net5.0\Rastojanje_tacaka.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\bin\Debug\net5.0\Rastojanje_tacaka.dll
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\bin\Debug\net5.0\ref\Rastojanje_tacaka.dll
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\bin\Debug\net5.0\Rastojanje_tacaka.pdb
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\obj\Debug\net5.0\Rastojanje_tacaka.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\obj\Debug\net5.0\Rastojanje_tacaka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\obj\Debug\net5.0\Rastojanje_tacaka.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\obj\Debug\net5.0\Rastojanje_tacaka.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\obj\Debug\net5.0\Rastojanje_tacaka.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\obj\Debug\net5.0\Rastojanje_tacaka.dll
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\obj\Debug\net5.0\ref\Rastojanje_tacaka.dll
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\obj\Debug\net5.0\Rastojanje_tacaka.pdb
+C:\Users\Nikola\source\repos\Rastojanje_tacaka\Rastojanje_tacaka\obj\Debug\net5.0\Rastojanje_tacaka.genruntimeconfig.cache
